@@ -1,0 +1,15 @@
+/* styles.css */
+
+.weird {
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.moreweird {
+    background-color:gold;
+}
+
+.weird, .moreweird {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
