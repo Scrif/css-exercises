@@ -17,6 +17,7 @@ body {
 
 .one, .two {
   display: flex;
+  align-items: center;
 }
 
 .profile-image {
