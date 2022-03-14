@@ -14,11 +14,13 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
+  padding: 5px;
 }
 
 .one, .two {
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
 .profile-image {
@@ -53,7 +55,7 @@ a {
 ul {
   display: flex;
   list-style-type: none;
-  margin: 1px;
-  padding: 1px;
+  margin: 0;
+  padding: 0;
   gap: 10px;
 }
