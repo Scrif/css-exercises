@@ -12,6 +12,14 @@ img {
   font-weight: 900;
 }
 
+.plantbox {
+  display: flex;
+}
+
+.blurb {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
