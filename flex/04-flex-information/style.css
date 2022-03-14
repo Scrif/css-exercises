@@ -16,6 +16,7 @@ img {
 
 .plantbox {
   display: flex;
+  justify-content: center;
 }
 
 .blurb {
