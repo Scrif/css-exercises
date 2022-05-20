@@ -30,6 +30,7 @@
 }
 
 .menu {
+  align-self: start;
 }
 
 .menu ul {
@@ -59,6 +60,8 @@
 }
 
 .photo  {
+  display: grid;
+  align-items: center;
 }
 
 .sidebar .side-content {
