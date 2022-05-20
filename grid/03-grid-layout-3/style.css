@@ -65,6 +65,8 @@
   color: black;
   font-size: 16px;
   font-weight: normal;
+  display: grid;
+  align-items: center;
 }
 
 .nav {
@@ -73,6 +75,7 @@
 
 .nav ul {
   display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .nav ul li {
