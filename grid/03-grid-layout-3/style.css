@@ -20,6 +20,8 @@
 
 .header {
   background-color: #393f4d;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
 }
 
 .logo {
@@ -29,6 +31,7 @@
 }
 
 .menu ul {
+  display: grid;
 }
 
 .menu ul,
@@ -63,6 +66,7 @@
 }
 
 .nav ul {
+  display: grid;
 }
 
 .nav ul li {
