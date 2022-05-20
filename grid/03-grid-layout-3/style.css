@@ -45,7 +45,7 @@
 .sidebar {
   background-color: #FF7755;
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-row: 2 / 4;
   gap: 50px;
 }
 
