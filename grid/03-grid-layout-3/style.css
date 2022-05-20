@@ -80,12 +80,12 @@
 .nav ul {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  list-style-type: none;
 }
 
 .nav ul li {
   font-size: 16px;
   text-transform: uppercase;
-  list-style-type: none;
 }
 
 .article {
