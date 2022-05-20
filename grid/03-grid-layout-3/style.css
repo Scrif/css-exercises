@@ -21,6 +21,7 @@
 .header {
   background-color: #393f4d;
   display: grid;
+  grid-template-columns: 1fr 2fr;
   grid-column: 1 / 3;
 }
 
@@ -32,6 +33,7 @@
 
 .menu ul {
   display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .menu ul,
